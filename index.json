@@ -1,0 +1,11 @@
+{
+  "org": "mit-han-lab",
+  "repo": "llm-awq",
+  "versions": [
+    {
+      "commit": "d6e797a42b9ef7778de8ee2352116e0f48a78d61",
+      "tag": "",
+      "parsed_at": "2026-10-17T13:56:52.288130+00:00"
+    }
+  ]
+}
