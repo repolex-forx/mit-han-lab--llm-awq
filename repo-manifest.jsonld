@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/mit-han-lab/llm-awq/commit/d6e797a42b9ef7778de8ee2352116e0f48a78d61",
       "git:hexsha": "d6e797a42b9ef7778de8ee2352116e0f48a78d61",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
